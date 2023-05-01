@@ -8,6 +8,14 @@ body {
   font-family: "Nunito", sans-serif;
 }
 
+#hero {
+    height: 90vh;
+}
+
+#blog {
+    height: 100vh;
+}
+
 h1 {
   font-family: "Spectral", serif;
   color: #00FFE8;
@@ -25,6 +33,10 @@ h4 {
 
 .primary {
   background-color: #00FFE8;
+}
+
+.txt-primary {
+    color: #00FFE8;
 }
 
 .bg-color {
